@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning vue3 & nodejs & ES6..
 - 📫 How to reach me: Q_Q
 - 😄 Pronouns: Asrr
-- ⚡ Fun fact: ...
+- Blog: www.asrr.online
